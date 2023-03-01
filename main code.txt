@@ -1,3 +1,0 @@
-this is Main code and DON'T CHANGE IT!!!!!!!!!!!!
-
-Code updated for Version 1.1
